@@ -75,6 +75,16 @@ Este script realiza as seguintes etapas:
 
 O script gerará um arquivo ZIP contendo o arquivo Excel processado.
 
+## 3. Teste de Banco de Dados
+
+Para executar o teste de banco de dados, siga as instruções abaixo:
+
+1. Abra o arquivo `TESTE_DE_BANCO_DE_DADOS.sql` em seu editor SQL de preferência, como **MySQL Workbench**.
+2. Execute o script SQL para criar as tabelas e popular o banco de dados com os dados de teste.
+
+> **Nota:** Certifique-se de estar conectado ao banco de dados correto antes de rodar o script.
+
+
 
 ## 4.Teste de API e Interface Web
 
