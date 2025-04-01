@@ -1,0 +1,32 @@
+# Ignorar dependências do Python
+venv/
+__pycache__/
+*.pyc
+instance/
+.env
+
+# Ignorar dependências do Node.js
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+package-lock.json
+
+# Ignorar configurações do editor
+.vscode/
+
+# Ignorar arquivos do Prettier
+.prettierrc.json
+.prettierignore
+
+# Ignorar arquivos de configuração do ESLint
+eslint.config.js
+.eslintrc.js
+.eslintrc.json
+.eslintrc.yml
+eslint-config-*
+
+# Ignorar arquivos do EditorConfig
+.editorconfig
+
